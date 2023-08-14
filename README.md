@@ -2,7 +2,7 @@
 
 ### Sobre mim
 
-💻 Eu sou um desenvolvedor [Front-End | Back-End | Fullstack]
+💻 Eu sou uma desenvolvedora [Front-End | Back-End | Fullstack]
 
 🎓 Eu estudo [Desenvolvimento de Software com Foco em Back-End](https://cubos.academy/cursos/desenvolvimento-de-software-v2) | [Desenvolvimento de Software Front End](https://www.udemy.com/course/formacao-front-end-html-css-javascript-react-e/learn/lecture/38421026#overview)
 
