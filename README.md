@@ -26,17 +26,7 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-
-### GitHub Stats ⚡
-
-<div>
-<a href="https://github.com/jauregao>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jauregao&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="[![Jauregao GitHub stats](https://github-readme-stats.vercel.app/api?username=jauregao)](https://github.com/jauregao/github-readme-stats)"/>
-</div>
 
 ### Entre em contato comigo! 📭
 
