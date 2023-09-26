@@ -18,9 +18,9 @@
 ## :point_right: Para me encontrar:
 
 <div>
-<a href="https://www.instagram.com/mands.jauregui/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://www.behance.net/amandaj" target="_blank"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/amandaj-/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<a href="https://www.instagram.com/mands.jauregui/" target="_blank"><img img src="https://skillicons.dev/icons?i=instagram" target="_blank"></a>
+<a href="https://www.behance.net/amandaj" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" target="_blank"></a>
+<a href="https://www.linkedin.com/in/amandaj-/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" target="_blank"></a>   
 <a href="https://wa.me/5521978911990" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>   
 </div>
 
