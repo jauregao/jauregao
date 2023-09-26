@@ -19,9 +19,9 @@
 
 <p align="center">
 <a href="https://www.instagram.com/mands.jauregui/" target="_blank"><img img src="https://skillicons.dev/icons?i=instagram" target="_blank"></a>
-<a href="https://www.behance.net/amandaj" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" style="max-width: 48px" target="_blank"></a>
-<a href="https://www.linkedin.com/in/amandaj-/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="max-width: 48px" target="_blank"></a>   
-<a href="https://wa.me/5521978911990" width="48" height="48" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" style="max-width: 48px" target="_blank"></a>   
+<a href="https://www.behance.net/amandaj" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" heigth="48px" width="48px" target="_blank"></a>
+<a href="https://www.linkedin.com/in/amandaj-/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" heigth="48px" width="48px" target="_blank"></a>   
+<a href="https://wa.me/5521978911990" width="48" height="48" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" style="max-width=48px" target="_blank"></a>   
 </div>
 </p>
 
