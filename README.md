@@ -1,5 +1,5 @@
 # Oi, me chamo Amanda👋
-<img src=".octocat-1695759407613.png" width="200px" align="right" >
+<img src="jauregao/octocat-1695759407613.png" width="200px" align="right" >
 ### Sobre mim
 
 🎓 Eu estudo [Desenvolvimento de Software com Foco em Back-End](https://cubos.academy/cursos/desenvolvimento-de-software-v2) | [Desenvolvimento de Software Front End](https://www.origamid.com/)
