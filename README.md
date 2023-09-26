@@ -18,9 +18,9 @@
 ## :point_right: Para me encontrar:
 
 <div>
-<a href="https://www.instagram.com/mands.jauregui/" target="_blank"><img img src="https://skillicons.dev/icons?i=instagram" target="_blank"></a>
-<a href="https://www.behance.net/amandaj" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" heigth="48px" width="48px" target="_blank"></a>
-<a href="https://www.linkedin.com/in/amandaj-/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" heigth="48px" width="48px" target="_blank"></a>
+<a href="https://www.instagram.com/mands.jauregui/" target="_blank"><img img src="https://skillicons.dev/icons?i=instagram" heigth="30px" width="30px" target="_blank"></a>
+<a href="https://www.behance.net/amandaj" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" heigth="30px" width="30px" target="_blank"></a>
+<a href="https://www.linkedin.com/in/amandaj-/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" heigth="30px" width="30px" target="_blank"></a>
 </div>
 
 
