@@ -22,3 +22,6 @@
 <a href="https://www.linkedin.com/in/amandaj-/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 <a href="https://wa.me/5521978911990" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>   
 </div>
+
+![Jauregao GitHub stats](https://github-readme-stats.vercel.app/api?username=jauregao&show_icons=true&theme=radical)
+![Linguagens Principais](https://github-readme-stats.vercel.app/api/top-langs/?username=jauregai&theme=radical&hide_border=true&custom_title=Linguagens%20%Principais)
