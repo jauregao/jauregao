@@ -18,10 +18,10 @@
 ## :point_right: Para me encontrar:
 
 <p align="center">
-<a width=48px height=48px href="https://www.instagram.com/mands.jauregui/" target="_blank"><img img src="https://skillicons.dev/icons?i=instagram" target="_blank"></a>
-<a width=48px height=48px href="https://www.behance.net/amandaj" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" target="_blank"></a>
-<a width=48px height=48px href="https://www.linkedin.com/in/amandaj-/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" target="_blank"></a>   
-<a width=48px height=48px href="https://wa.me/5521978911990" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>   
+<a height=48 href="https://www.instagram.com/mands.jauregui/" target="_blank"><img img src="https://skillicons.dev/icons?i=instagram" target="_blank"></a>
+<a height=48 href="https://www.behance.net/amandaj" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" target="_blank"></a>
+<a height=48 href="https://www.linkedin.com/in/amandaj-/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" target="_blank"></a>   
+<a height=48 href="https://wa.me/5521978911990" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>   
 </div>
 </p>
 
