@@ -22,4 +22,4 @@
 </div>
 
 ![Jauregao GitHub stats](https://github-readme-stats.vercel.app/api?username=jauregao&show_icons=true&theme=radical)
-![Linguagens Principais](https://github-readme-stats.vercel.app/api/top-langs/?username=jauregai&theme=radical&hide_border=true&custom_title=Linguagens%20%Principais)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jauregao&layout=pie)](https://github.com/jauregao/github-readme-stats))
