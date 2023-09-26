@@ -1,8 +1,10 @@
 # Oi, me chamo Amanda👋
-<img src="https://github.com/jauregao/jauregao/blob/main/octocat-1695759407613.png" width="200px" align="right" >
+<img src="https://github.com/jauregao/jauregao/blob/main/octocat-1695759407613.png" width="300px" align="right" >
+
 ### Sobre mim
 
 🎓 Eu estudo [Desenvolvimento de Software com Foco em Back-End](https://cubos.academy/cursos/desenvolvimento-de-software-v2) | [Desenvolvimento de Software Front End](https://www.origamid.com/)
+
 
 ### Eu estou estudando... 🧩
 
@@ -12,6 +14,7 @@
   </a>
 </p>
 
+
 ## :point_right: Para me encontrar:
 
 <div>
@@ -20,6 +23,8 @@
 <a href="https://www.linkedin.com/in/amandaj-/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 <a href="https://wa.me/5521978911990" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>   
 </div>
+
+
 
 <p align="center">
 <a href="https://github.com/jauregao/github-readme-stats">
