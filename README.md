@@ -3,7 +3,7 @@
 
 ### Sobre mim
 
-🎓 Eu estudo [Desenvolvimento de Software com Foco em Back-End](https://cubos.academy/cursos/desenvolvimento-de-software-v2) | [Desenvolvimento de Software Front End](https://www.origamid.com/)
+🎓 Eu estudo [Desenvolvimento de Software com Foco em Back-End](https://cubos.academy/cursos/desenvolvimento-de-software) | [Desenvolvimento de Software Front End](https://www.origamid.com/)
 
 
 ### Eu estou estudando... 🧩
