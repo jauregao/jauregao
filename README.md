@@ -21,10 +21,11 @@
 <a href="https://wa.me/5521978911990" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>   
 </div>
 
-
+<p align="center">
 <a href="https://github.com/jauregao/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jauregao&show_icons=true&theme=radical"/>
 </a>
 <a href="https://github.com/jauregao/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jauregao&theme=tokyonight&layout=compact&langs_count=8&card_width=320" />
 </a>
+</p>
