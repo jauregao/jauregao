@@ -1,6 +1,4 @@
 # Oi, me chamo Amanda👋
-
-<img src='octocat-1695759407613.png' width="200px" align="right" >
     
 ### Sobre mim
 
