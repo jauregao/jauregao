@@ -36,4 +36,4 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jauregao&bg_color=0e0e27&color=d83a7c&line=f5c402&point=f5c402&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=d83a7c&rotate=-180)
+![header](https://capsule-render.vercel.app/api?type=waving&color=d83a7c&rotate=-90)
