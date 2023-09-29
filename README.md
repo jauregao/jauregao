@@ -1,4 +1,4 @@
-# Oi, me chamo Amanda👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=d83a7c&size=35&center=true&vCenter=true&width=1000&lines=Oi,+me+chamo-Amanda!)](https://git.io/typing-svg)
 <img src="https://github.com/jauregao/jauregao/blob/main/octocat-1695759407613.png" width="300px" align="right" >
 
 ### Sobre mim
@@ -32,3 +32,5 @@
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jauregao&theme=tokyonight&layout=compact&langs_count=8&card_width=320" />
 </a>
 </p>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jauregao&bg_color=0e0e27&color=d83a7c&line=f5c402&point=f5c402&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
