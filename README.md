@@ -6,8 +6,8 @@
 
 ### Sobre mim
 
-🖥️​ Atuo como designer gráfico desde 2021.\n
-🎓 Atualmente estudo [Desenvolvimento de Software Back-End](https://cubos.academy/cursos/desenvolvimento-de-software) | [Desenvolvimento de Software Front End](https://www.origamid.com/)
+<p>🖥️​ Atuo como designer gráfico desde 2021.</p>
+<p>🎓 Atualmente estudo [Desenvolvimento de Software Back-End](https://cubos.academy/cursos/desenvolvimento-de-software) | [Desenvolvimento de Software Front End](https://www.origamid.com/)</p>
 
 
 ### Eu estou estudando... 🧩
