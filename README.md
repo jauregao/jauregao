@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=d83a7c&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=d83a7c&size=50&center=true&vCenter=true&width=1000&lines=Oi,+me+chamo+Amanda!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=d83a7c&size=45&center=true&vCenter=true&width=1000&lines=Oi,+me+chamo+Amanda!)](https://git.io/typing-svg)
 
 <img src="https://github.com/jauregao/jauregao/blob/main/octocat-1695759407613.png" width="300px" align="right" >
 
