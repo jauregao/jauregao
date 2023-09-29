@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=d83a7c&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FD0363&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=d83a7c&size=35&center=true&vCenter=true&width=1000&lines=Oi,+me+chamo+Amanda!)](https://git.io/typing-svg)
 
@@ -39,4 +39,4 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jauregao&bg_color=0e0e27&color=d83a7c&line=f5c402&point=f5c402&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=d83a7c&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FD0363&height=120&section=footer"/>
