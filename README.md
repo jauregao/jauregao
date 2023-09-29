@@ -36,7 +36,7 @@
 </a>
 </p>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jauregao&bg_color=0e0e27&color=d83a7c&line=f5c402&point=f5c402&area=true&hide_border=true&bg_color=0A2344&color=FD0363&title_color=FD0363&line=FD0363)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jauregao&line=f5c402&point=f5c402&area=true&hide_border=true&bg_color=FD0363&color=0A2344&title_color=0A2344&line=0A2344%point=0A2344)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FD0363&height=120&section=footer"/>
