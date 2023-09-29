@@ -6,7 +6,8 @@
 
 ### Sobre mim
 
-🎓 Eu estudo [Desenvolvimento de Software Back-End](https://cubos.academy/cursos/desenvolvimento-de-software) | [Desenvolvimento de Software Front End](https://www.origamid.com/)
+🖥️​ Atuo como designer gráfico desde 2021.
+🎓 Atualmente estudo [Desenvolvimento de Software Back-End](https://cubos.academy/cursos/desenvolvimento-de-software) | [Desenvolvimento de Software Front End](https://www.origamid.com/)
 
 
 ### Eu estou estudando... 🧩
@@ -16,7 +17,6 @@
     <img src="https://skillicons.dev/icons?i=html,css,mysql,js,nodejs,express,ts,aws" />
   </a>
 </p>
-
 
 ## :point_right: Para me encontrar:
 
