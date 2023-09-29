@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FD0363&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=d83a7c&size=35&center=true&vCenter=true&width=1000&lines=Oi,+me+chamo+Amanda!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FD0363&size=35&center=true&vCenter=true&width=1000&lines=Oi,+me+chamo+Amanda!)](https://git.io/typing-svg)
 
 <img src="https://github.com/jauregao/jauregao/blob/main/octocat-1695759407613.png" width="300px" align="right" >
 
@@ -36,7 +36,7 @@
 </a>
 </p>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jauregao&bg_color=0e0e27&color=d83a7c&line=f5c402&point=f5c402&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jauregao&bg_color=0e0e27&color=d83a7c&line=f5c402&point=f5c402&area=true&hide_border=true&bg_color=0A2344&color=FD0363&title_color=FD0363&line=FD0363)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FD0363&height=120&section=footer"/>
