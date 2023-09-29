@@ -2,8 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FD0363&size=35&center=true&vCenter=true&width=1000&lines=Oi,+me+chamo+Amanda!)](https://git.io/typing-svg)
 
-<img src="https://github.com/jauregao/jauregao/blob/main/octocat-1695759407613.png" width="300px" align="right" >
-
 ### Sobre mim
 
 <p>🖥️​ Atuo como designer gráfico desde 2021.</p>
