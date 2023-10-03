@@ -10,7 +10,7 @@
 <p>🎓 Atualmente estudo Desenvolvimento de Software Back-End && Front End</p>
 </div>
 <p align="right">
-    <img src="https://64.media.tumblr.com/d68d4ba551a599884a5f4a79d8421cae/tumblr_oirsw8c3qM1vmjx2vo2_540.gifv" height="200" max-width="50%"/>
+    <img src="https://64.media.tumblr.com/d68d4ba551a599884a5f4a79d8421cae/tumblr_oirsw8c3qM1vmjx2vo2_540.gifv" height="200" width="50%"/>
 </p>
 </div>
 
