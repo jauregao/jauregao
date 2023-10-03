@@ -8,12 +8,9 @@
 <div align="left" max-width="50%">
 <p>🖥️​ Atuo como designer gráfico desde 2021.</p>
 <p>🎓 Atualmente estudo Desenvolvimento de Software Back-End && Front End</p>
+<div style="width:100%;height:0;padding-bottom:118%;position:relative;">
+     <iframe src="https://giphy.com/embed/Ptlbgt8adJEFIFDDnL" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 </div>
-<p align="right">
-     <img align="right" height="300px" width= "320px" alt="GIF" src="https://giphy.com/gifs/1412-Zq6vmn4P1sLwQ" />
-</p>
-</div>
-
 
 
 ### Eu estou estudando... 🧩
