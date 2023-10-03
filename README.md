@@ -4,11 +4,15 @@
 
 ### Sobre mim
 
+
+<div align="left">
 <p>🖥️​ Atuo como designer gráfico desde 2021.</p>
 <p>🎓 Atualmente estudo Desenvolvimento de Software Back-End && Front End</p>
+</div>
 <p align="right">
-    <img src="https://www.tumblr.com/karma-joestar/154959097206"/>
+    <img src="https://64.media.tumblr.com/d68d4ba551a599884a5f4a79d8421cae/tumblr_oirsw8c3qM1vmjx2vo2_540.gifv"/>
 </p>
+
 
 
 ### Eu estou estudando... 🧩
