@@ -10,7 +10,7 @@
 <p>🎓 Atualmente estudo Desenvolvimento de Software Back-End && Front End</p>
 </div>
 <p align="right">
-    <img src="https://drive.google.com/file/d/1CCZoqR8qp1MAybDb1VB9VLl1P2HSzYbi/view?usp=sharing" height="200" width="50%"/>
+     <img align="right" height="300px" width= "320px" alt="GIF" src="https://drive.google.com/file/d/1CCZoqR8qp1MAybDb1VB9VLl1P2HSzYbi/view?usp=sharing" />
 </p>
 </div>
 
