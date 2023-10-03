@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FD0363&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FD0363&size=35&center=true&vCenter=true&width=1000&lines=Oi,+me+chamo+Amanda!)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=500&size=45&duration=3000&pause=1000&color=FD0363&center=true&vCenter=true&multiline=true&width=435&height=60&lines=Ol%C3%A1%2C+me+chamo+Amanda!;Welcome+to+my+profile+%3A)" alt="Typing SVG" /></a>
 
 ### Sobre mim
 
