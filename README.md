@@ -4,7 +4,7 @@
 
 <img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTlldThycjRtN3h1NTN3dTVrYXd5Z3p5Ynh1bTR3YjZpb2Uzc3JlbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ptlbgt8adJEFIFDDnL/giphy.gif" width="28%" height="28%"/>
 
-## Sobre mim
+### Sobre mim
 
 - :desktop_computer: Designer e ilustradora.
 - :keyboard: Iniciei meus estudos na programação em junho de 2023.
