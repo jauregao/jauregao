@@ -10,7 +10,7 @@
 <p>🎓 Atualmente estudo Desenvolvimento de Software Back-End && Front End</p>
 </div>
 <p align="right">
-    <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/a842fa7b-dfe0-416c-a09f-b85c71fc73ce/d9zrdtq-796d2326-9193-4d94-9231-836095392056.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2E4NDJmYTdiLWRmZTAtNDE2Yy1hMDlmLWI4NWM3MWZjNzNjZVwvZDl6cmR0cS03OTZkMjMyNi05MTkzLTRkOTQtOTIzMS04MzYwOTUzOTIwNTYuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Dw6NQFyQ722CifN2JOlDXjBGPQMje97Mukv9WE3TOuM)" height="200" width="50%"/>
+    <img src="file:///C:/Users/Jauregão/Desktop/d9zrdtq-796d2326-9193-4d94-9231-836095392056.gif" height="200" width="50%"/>
 </p>
 </div>
 
