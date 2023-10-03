@@ -5,7 +5,12 @@
 ### Sobre mim
 
 <p>🖥️​ Atuo como designer gráfico desde 2021.</p>
-🎓 Atualmente estudo Desenvolvimento de Software Back-End && Front End
+<p>🎓 Atualmente estudo Desenvolvimento de Software Back-End && Front End</p>
+<p align="right">
+  <a href="https://skillicons.dev">
+    <img src="https://www.tumblr.com/karma-joestar/154959097206"/>
+  </a>
+</p>
 
 
 ### Eu estou estudando... 🧩
