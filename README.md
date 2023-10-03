@@ -4,7 +4,7 @@
 
 ### Sobre mim
 
-<div>
+<div display="inline-block">
 <div align="left" max-width="50%">
 <p>🖥️​ Atuo como designer gráfico desde 2021.</p>
 <p>🎓 Atualmente estudo Desenvolvimento de Software Back-End && Front End</p>
