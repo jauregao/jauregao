@@ -10,7 +10,7 @@
 <p>🎓 Atualmente estudo Desenvolvimento de Software Back-End && Front End</p>
 </div>
 <p align="right">
-    <img src="file:///C:/Users/Jauregão/Desktop/d9zrdtq-796d2326-9193-4d94-9231-836095392056.gif" height="200" width="50%"/>
+    <img src="https://www.deviantart.com/heirofdrills/art/Pain-gif-604259774" height="200" width="50%"/>
 </p>
 </div>
 
