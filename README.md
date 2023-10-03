@@ -10,7 +10,7 @@
 <p>🎓 Atualmente estudo Desenvolvimento de Software Back-End && Front End</p>
 </div>
 <p align="right">
-    <img src="https://www.deviantart.com/heirofdrills/art/Pain-gif-604259774" height="200" width="50%"/>
+    <img src="https://drive.google.com/file/d/1CCZoqR8qp1MAybDb1VB9VLl1P2HSzYbi/view?usp=sharing" height="200" width="50%"/>
 </p>
 </div>
 
