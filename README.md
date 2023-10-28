@@ -34,7 +34,7 @@
 </a>
 </p>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jauregao&bg_color=0e0e27&color=fd0363&line=fd0363&point=fd0363&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jauregao&bg_color=0e0e27&color=fd0363&line=fd0363&point=fd0363&area=true&hide_border=true)]
 
 ## Para me encontrar:
 
