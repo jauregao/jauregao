@@ -6,12 +6,11 @@
 
 ### Sobre mim
 
+- :jigsaw: Estudante de Engenharia de Software.
 - :desktop_computer: Designer e ilustradora.
 - :keyboard: Iniciei meus estudos na programação em junho de 2023.
 - :books: Estou me especializando em desenvolvimento full stack.
-- :biohazard: Ex-estudante de Química, interrompi a graduação pra estudar programação!
 - :vampire: Amo filmes de terror e sou apaixonada na cultura gótica.
-- :video_game: Jogo vários joguinhos diferentes.
 - :skull_and_crossbones: Amante de todos os gêneros de rock.
 - :tv: Gosto de assistir animes e meu favorito é JoJo.
 - :hammer_and_pick: Jogadora de RPG no meu tempo livre.
