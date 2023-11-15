@@ -2,7 +2,7 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=500&size=50&duration=3000&pause=500&color=FD0363&center=true&multiline=true&width=800&height=120&lines=Ol%C3%A1%2C+me+chamo+Amanda!;Welcome+to+my+profile." alt="Typing SVG" /></a>
 
-<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHpvMnZhZng1cjA0b254OGt3bDFvcTVxbmtmamNmbDBraTE2dzV6bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/73Gqfz3m7TlL07Ebfs/source.gif" width="auto" height="300px"/>
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHpvMnZhZng1cjA0b254OGt3bDFvcTVxbmtmamNmbDBraTE2dzV6bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/73Gqfz3m7TlL07Ebfs/source.gif" width="auto" height="250px"/>
 
 ### Sobre mim
 
