@@ -4,8 +4,6 @@
 <img align="right" alt="josuke" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHpvMnZhZng1cjA0b254OGt3bDFvcTVxbmtmamNmbDBraTE2dzV6bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/73Gqfz3m7TlL07Ebfs/source.gif" width="auto" height="250px"/>
 
 <h3 align="left">Sobre mim</h3>
-
-- 💻 Estudante de Engenharia de Software.
   
 - 👨🏻‍💻 Iniciei meus estudos na programação em agosto de 2023.
   
