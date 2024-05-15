@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=812FF1&height=120&section=header"/>
 <h1>Olá, meu nome é Amanda! 🏍</h1>
 
-<img align="right" alt="josuke" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHpvMnZhZng1cjA0b254OGt3bDFvcTVxbmtmamNmbDBraTE2dzV6bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/73Gqfz3m7TlL07Ebfs/source.gif" width="auto" height="250px"/>
+<img align="right" alt="josuke" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHpvMnZhZng1cjA0b254OGt3bDFvcTVxbmtmamNmbDBraTE2dzV6bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/73Gqfz3m7TlL07Ebfs/source.gif" width="auto" height="220px"/>
 
 <h3 align="left">Sobre mim</h3>
   
@@ -21,7 +21,7 @@
 </br>
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,ts,react,wordpress,mysql,postgres,mongodb,docker,ubuntu,powershell,git,postman,obsidian,ps,ai,xd,figma" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,ts,react,wordpress,mysql,postgres,mongodb,docker,ubuntu,powershell,git,postman,figma" />
 </p>
 
 ##
@@ -32,7 +32,7 @@
 </br>
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=aws,angular,next,vue,jest,nest,prisma,graphql" />
+    <img src="https://skillicons.dev/icons?i=aws,angular,next,jest,nest,prisma,graphql" />
 </p>
 
 ##
