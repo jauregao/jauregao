@@ -44,7 +44,7 @@
 
 <p align="center">
   <img height=160 align="center" src="https://github-readme-stats.vercel.app/api?username=jauregao&show_icons=true&bg_color=212&title_color=f1e5ff&icon_color=812FF1&text_color=f1e5ff&border_color=812FF1&rank_icon=github"/>
-  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jauregao&layout=compact&langs_count=12&card_width=320&bg_color=212&title_color=f1e5ff&icon_color=812FF1&text_color=f1e5ff&border_color=812FF1" />
+  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jauregao&layout=compact&langs_count=12&card_width=320&bg_color=212&title_color=f1e5ff&icon_color=812FF1&text_color=f1e5ff&border_color=812FF1&hide=jupyter" />
 </p>
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jauregao&bg_color=212&color=812FF1&line=812FF1&point=812FF1&area=true&hide_border=true)
