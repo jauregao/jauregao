@@ -32,7 +32,7 @@
 </br>
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=jest,angular,cs,dotnet,graphql />
+    <img src="https://skillicons.dev/icons?i=jest,angular,cs,dotnet,graphql" />
 </p>
 
 ##
