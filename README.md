@@ -21,7 +21,7 @@
 </br>
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,ts,react,tailwind,wordpress,mysql,postgres,mongodb,docker,ubuntu,powershell,git,postman,nest" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,ts,react,tailwind,wordpress,mysql,postgres,mongodb,docker,ubuntu,powershell,git,postman,nest,aws,next,prisma,linux" />
 </p>
 
 ##
@@ -32,7 +32,7 @@
 </br>
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=aws,next,jest,prisma,dynamodb" />
+    <img src="https://skillicons.dev/icons?i=jest,angular,cs,dotnet,graphql />
 </p>
 
 ##
