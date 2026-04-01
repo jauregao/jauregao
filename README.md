@@ -1,23 +1,25 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=812FF1&height=120&section=header"/>
-<h1>Olá, meu nome é Amanda! 🏍</h1>
+
+<h1>Hello, my name is Amanda! 🏍</h1>
 
 <img align="right" alt="josuke" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHpvMnZhZng1cjA0b254OGt3bDFvcTVxbmtmamNmbDBraTE2dzV6bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/73Gqfz3m7TlL07Ebfs/source.gif" width="auto" height="220px"/>
 
-<h3 align="left">Sobre mim</h3>
-  
-- 👨🏻‍💻 Iniciei meus estudos na programação em agosto de 2023.
-  
-- 📚 Minha especialização atual está no backend, mas meu objetivo </br> é evoluir para me tornar uma profissional Fullstack.
-  
-- ✍ Tenho o design e a ilustração como hobby.
-  
-- ⚔️ Jogadora de RPG nas horas vagas.
+<h3 align="left">About me</h3>
+
+- 💻 Fullstack Developer with a strong focus on backend engineering  
+- ☁️ Interested in cloud architecture and microservices  
+- 🧠 Technical mentor experienced in code reviews and pair programming  
+- 🎸 Guitar player  
+- 🎮 Gamer  
+
 </br></br>
+
 ##
 
 <h3 align="center">⚓&nbsp&nbspHard Skills&nbsp&nbsp⚓</h3>
 
 ##
+
 </br>
 
 <p align="center">
@@ -26,9 +28,10 @@
 
 ##
 
-<h3 align="center">🐣&nbsp&nbspAtualmente estou estudando&nbsp&nbsp🐣</h3>
+<h3 align="center">🐣&nbsp&nbspCurrently Learning&nbsp&nbsp🐣</h3>
 
 ##
+
 </br>
 
 <p align="center">
@@ -37,23 +40,18 @@
 
 ##
 
-<h3 align="center">👾&nbsp&nbspAtividade&nbsp&nbsp👾</h3>
+<h3 align="center">👾&nbsp&nbspActivity&nbsp&nbsp👾</h3>
 
 ##
-</br>
 
-<p align="center">
-  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api?username=jauregao&show_icons=true&bg_color=212&title_color=f1e5ff&icon_color=812FF1&text_color=f1e5ff&border_color=812FF1&rank_icon=github"/>
-  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jauregao&layout=compact&langs_count=12&card_width=320&bg_color=212&title_color=f1e5ff&icon_color=812FF1&text_color=f1e5ff&border_color=812FF1&hide=jupyter" />
-</p>
+</br>
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jauregao&bg_color=212&color=812FF1&line=812FF1&point=812FF1&area=true&hide_border=true)
 
-##
-
-<h3 align="center">✈&nbsp&nbspPara me encontrar&nbsp&nbsp✈</h3>
+<h3 align="center">✈&nbsp&nbspWhere to find me&nbsp&nbsp✈</h3>
 
 ##
+
 </br>
 
 <div align="center">
@@ -76,4 +74,5 @@
         <img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white&labelColor=5e29a5&color=5e29a5&style=flat" alt="Behance" />
     </a>
 </div>
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=812FF1&height=120&section=footer"/>
